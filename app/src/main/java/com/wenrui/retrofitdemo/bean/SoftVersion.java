@@ -6,6 +6,8 @@ import com.google.gson.annotations.SerializedName;
  * author:崔文睿
  * mail:cuiwenrui@meituan.com
  * Created on 2018/5/9
+ * 软件版本查询
+ * Android: https://news-at.zhihu.com/api/4/version/android/2.3.0
  */
 public class SoftVersion {
 
